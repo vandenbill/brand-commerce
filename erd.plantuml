@@ -31,6 +31,7 @@ entity Cart {
     * quantity : INT
     * total : INT
     --
+    * user_id : VARCHAR
     * product_id : []VARCHAR
 }
 
